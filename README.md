@@ -61,3 +61,11 @@
 
 [TODO]
 
+- [EMNLP 2020] **Learning to Fuse Sentences with Transformers for Summarization** Logan Lebanoff, Franck Dernoncourt, Doo Soon Kim, Lidan Wang, Walter Chang, Fei Liu  [pdf](https://www.aclweb.org/anthology/2020.emnlp-main.338.pdf) [code](https://github.com/ucfnlp/sent-fusion-transformers) 
+
+
+
+### 1.2 Unsupervised Summarization
+
+- [arXiv 2102] **Unsupervised Extractive Summarization using Pointwise Mutual Information** Vishakh Padmakumar, He He [pdf](https://arxiv.org/pdf/2102.06272.pdf) [code](https://github.com/vishakhpk/mi-unsup-summ) [note](src/arxiv.2102.06272.md)
+
