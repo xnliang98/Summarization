@@ -69,3 +69,13 @@
 
 - [arXiv 2102] **Unsupervised Extractive Summarization using Pointwise Mutual Information** Vishakh Padmakumar, He He [pdf](https://arxiv.org/pdf/2102.06272.pdf) [code](https://github.com/vishakhpk/mi-unsup-summ) [note](src/arxiv.2102.06272.md)
 
+
+
+
+
+## 2 Resources
+
+- [Summarization-Paperlist (pfliu.com)](http://pfliu.com/pl-summarization/summ_paper.html)
+- [xcfcode/Summarization-Papers: Summarization Papers (github.com)](https://github.com/xcfcode/Summarization-Papers)
+- [icoxfog417/awesome-text-summarization: The guide to tackle with the Text Summarization (github.com)](https://github.com/icoxfog417/awesome-text-summarization)
+- ... ...
