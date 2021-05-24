@@ -36,5 +36,33 @@
 
 [11] [Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs](https://www.aclweb.org/anthology/2021.naacl-main.109/) *Jiaao Chen, Diyi Yang* [[code]](https://github.com/GT-SALT/Structure-Aware-BART)
 
-[12] 
+[12] [Extending Multi-Document Summarization Evaluation to the Interactive Setting](https://www.aclweb.org/anthology/2021.naacl-main.54/) *Ori Shapira, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal, Yael Amsterdamer, Ido Dagan*
+
+[13] [Noisy Self-Knowledge Distillation for Text Summarization](https://www.aclweb.org/anthology/2021.naacl-main.56/) *Yang Liu, Sheng Shen, Mirella Lapata*
+
+[14] [Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation](https://www.aclweb.org/anthology/2021.naacl-main.57/) *Alexander Fabbri, Simeng Han, Haoyuan Li, Haoran Li, Marjan Ghazvininejad, Shafiq Joty, Dragomir Radev, Yashar Mehdad*
+
+[15] [Enhancing Factual Consistency of Abstractive Summarization](https://www.aclweb.org/anthology/2021.naacl-main.58/) *Chenguang Zhu, William Hinthorn, Ruochen Xu, Qingkai Zeng, Michael Zeng, Xuedong Huang, Meng Jiang*
+
+[16] [Looking Beyond Sentence-Level Natural Language Inference for Question Answering and Text Summarization](https://www.aclweb.org/anthology/2021.naacl-main.104/) *Anshuman Mishra, Dhruvesh Patel, Aparna Vijayakumar, Xiang Lorraine Li, Pavan Kapanipathi, Kartik Talamadupula*
+
+[17] [Predicting Discourse Trees from Transformer-based Neural Summarizers](https://www.aclweb.org/anthology/2021.naacl-main.326/) *Wen Xiao, Patrick Huber, Giuseppe Carenini*
+
+[18] [Efficiently Summarizing Text and Graph Encodings of Multi-Document Clusters](https://www.aclweb.org/anthology/2021.naacl-main.380/) *Ramakanth Pasunuru, Mengwen Liu, Mohit Bansal, Sujith Ravi, Markus Dreyer*
+
+[19] [Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics](https://www.aclweb.org/anthology/2021.naacl-main.383/) *Artidoro Pagnoni, Vidhisha Balachandran, Yulia Tsvetkov*
+
+[20] [GSum: A General Framework for Guided Neural Abstractive Summarization](https://www.aclweb.org/anthology/2021.naacl-main.384/) *Zi-Yi Dou, Pengfei Liu, Hiroaki Hayashi, Zhengbao Jiang, Graham Neubig*
+
+[21] [Nutri-bullets Hybrid: Consensual Multi-document Summarization](https://www.aclweb.org/anthology/2021.naacl-main.411/) *Darsh Shah, Lili Yu, Tao Lei, Regina Barzilay*
+
+[22] [Sliding Selector Network with Dynamic Memory for Extractive Summarization of Long Documents](https://www.aclweb.org/anthology/2021.naacl-main.470/) *Peng Cui, Le Hu*
+
+[23] [QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization](https://www.aclweb.org/anthology/2021.naacl-main.472/) *Ming Zhong, Da Yin, Tao Yu, Ahmad Zaidi, Mutethia Mutuma, Rahul Jha, Ahmed Hassan Awadallah, Asli Celikyilmaz, Yang Liu, Xipeng Qiu, Dragomir Radev*
+
+[24] [MM-AVS: A Full-Scale Dataset for Multi-modal Summarization](https://www.aclweb.org/anthology/2021.naacl-main.473/) *Xiyan Fu, Jun Wang, Zhenglu Yang*
+
+[25] [MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization](https://www.aclweb.org/anthology/2021.naacl-main.474/) *Chenguang Zhu, Yang Liu, Jie Mei, Michael Zeng*
+
+[26] [Improving Faithfulness in Abstractive Summarization with Contrast Candidate Generation and Selection](https://www.aclweb.org/anthology/2021.naacl-main.475/) *Sihao Chen, Fan Zhang, Kazoo Sone, Dan Roth*
 
