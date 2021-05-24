@@ -2,11 +2,7 @@
 
 [TOC]
 
-**[2021.05.21] Updating ...**
-
-
-
-
+**NEW [2021.05.24] ** [NAACL 2021 Selected Papers](src/naacl-2021-summ.md)
 
 ## 0 Main Scholars
 
@@ -17,14 +13,10 @@
 - [Logan Lebanoff](https://loganlebanoff.github.io/), PhD Student
 - [Sangwoo Cho](https://sangwoo3.github.io/), PhD Student
 
-
-
 ### The LAUNCH Group, University of Michigan
 
 - [Dr. Lu Wang 王璐](https://web.eecs.umich.edu/~wangluxy/), Assistant Professor
 - [Group Members](https://web.eecs.umich.edu/~wangluxy/group.html)
-
-
 
 ### ILCC, School of Informatics, University of Edinburgh
 
@@ -33,45 +25,34 @@
 - [Dr. Li Dong 董力](http://dong.li/), Senior Researcher at Miscrosoft Research Asia
 - [Group Members](https://homepages.inf.ed.ac.uk/mlap/index.php?page=students)
 
-
-
 ### NeuLab, Carnegie Mellon University
 
 - [Dr. Graham Neubig](http://www.phontron.com), Assistant Professor
 - [Dr. Pengfei Liu](http://pfliu.com), Postdoc
 - [NeuLab -- Graham Neubig's Lab @ LTI/CMU](http://www.cs.cmu.edu/~neulab/people.html)
 
+### TAUR LAB, UT Austin
 
+- [Dr. Greg Durrett (utexas.edu)](https://www.cs.utexas.edu/~gdurrett/), Assistant Professor
+- [Tanya Goyal](https://tagoyal.github.io/), PhD Student
+
+- [TAUR Lab - Publications (utexas.edu)](http://taur.cs.utexas.edu/publications.shtml)
 
 ### Tencent AI LAB
 
 - [Dr. Piji Li](http://lipiji.com), Senior Research at Tencent AI LAB
 
-
-
 ### Others
 
 - [Yue Dong](https://www.cs.mcgill.ca/~ydong26/)
 
-
-
-[TODO]
-
 ## 1 Selected Papers
 
-[TODO]
-
-- [EMNLP 2020] **Learning to Fuse Sentences with Transformers for Summarization** Logan Lebanoff, Franck Dernoncourt, Doo Soon Kim, Lidan Wang, Walter Chang, Fei Liu  [pdf](https://www.aclweb.org/anthology/2020.emnlp-main.338.pdf) [code](https://github.com/ucfnlp/sent-fusion-transformers) 
-
-
+- [NAACL 2021](src/naacl-2021-summ.md)
 
 ### 1.2 Unsupervised Summarization
 
 - [arXiv 2102] **Unsupervised Extractive Summarization using Pointwise Mutual Information** Vishakh Padmakumar, He He [pdf](https://arxiv.org/pdf/2102.06272.pdf) [code](https://github.com/vishakhpk/mi-unsup-summ) [note](src/arxiv.2102.06272.md)
-
-
-
-
 
 ## 2 Resources
 
@@ -79,8 +60,6 @@
 - [xcfcode/Summarization-Papers: Summarization Papers (github.com)](https://github.com/xcfcode/Summarization-Papers)
 - [icoxfog417/awesome-text-summarization: The guide to tackle with the Text Summarization (github.com)](https://github.com/icoxfog417/awesome-text-summarization)
 - ... ...
-
-
 
 ## 3 Some Useful Tools
 
