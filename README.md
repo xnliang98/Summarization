@@ -21,7 +21,7 @@
 
 ### The LAUNCH Group, University of Michigan
 
-- [Dr. Lu Wang 王璐](https://web.eecs.umich.edu/~wangluxy/)), Assistant Professor
+- [Dr. Lu Wang 王璐](https://web.eecs.umich.edu/~wangluxy/), Assistant Professor
 - [Group Members](https://web.eecs.umich.edu/~wangluxy/group.html)
 
 
@@ -79,3 +79,11 @@
 - [xcfcode/Summarization-Papers: Summarization Papers (github.com)](https://github.com/xcfcode/Summarization-Papers)
 - [icoxfog417/awesome-text-summarization: The guide to tackle with the Text Summarization (github.com)](https://github.com/icoxfog417/awesome-text-summarization)
 - ... ...
+
+
+
+## 3 Some Useful Tools
+
+- [Zhujunnan/papercrawler: Python script to download conference paper automatically (github.com)](https://github.com/Zhujunnan/papercrawler)
+- 
+
