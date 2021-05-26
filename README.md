@@ -23,6 +23,7 @@
 - [Dr. Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/index.php?page=index), Professor
 - [Dr. Yang Liu](https://nlp-yang.github.io/), Senior Researcher at Miscrosoft
 - [Dr. Li Dong 董力](http://dong.li/), Senior Researcher at Miscrosoft Research Asia
+- [Dr. Shashi Narayan](https://research.google/people/106924/), Research Scientist at Google London
 - [Group Members](https://homepages.inf.ed.ac.uk/mlap/index.php?page=students)
 
 ### NeuLab, Carnegie Mellon University
