@@ -4,6 +4,8 @@
 
 **NEW [2021.05.24] ** [NAACL 2021 Selected Papers](src/naacl-2021-summ.md)
 
+**NEW [2021.05.31] ** [EACL 2021 Selected Papers](src/eacl-2021-summ.md)
+
 ## 0 Main Scholars
 
 ### UCF NLP Group, University of Central Florida
@@ -53,10 +55,21 @@
 ## 1 Selected Papers
 
 - [NAACL 2021](src/naacl-2021-summ.md)
+- [EACL 2021](src/eacl-2021-summ.md)
+
+
+
+### 1.1 Analysis
+
+- **[EMNLP 2019]** [Countering the Effects of Lead Bias in News Summarization via Multi-Stage Training and Auxiliary Losses](https://www.aclweb.org/anthology/D19-1620.pdf) *Matt Grenander, Yue Dong, Jackie Chi Kit Cheung, Annie Louis* 
+
+> Try to overcome lead-3 bias in News Summarization datasets.
+
+- 
 
 ### 1.2 Unsupervised Summarization
 
-- [arXiv 2102] **Unsupervised Extractive Summarization using Pointwise Mutual Information** Vishakh Padmakumar, He He [pdf](https://arxiv.org/pdf/2102.06272.pdf) [code](https://github.com/vishakhpk/mi-unsup-summ) [note](src/arxiv.2102.06272.md)
+- **[arXiv:2102]** [Unsupervised Extractive Summarization using Pointwise Mutual Information](https://arxiv.org/pdf/2102.06272.pdf) Vishakh Padmakumar, He He [code](https://github.com/vishakhpk/mi-unsup-summ) [note](src/arxiv.2102.06272.md)
 
 ### 1.3 Evaluation
 
