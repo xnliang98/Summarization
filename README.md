@@ -1,10 +1,8 @@
 # TEXT SUMMARIZATION
 
-[TOC]
-
-**NEW [2021.05.24] ** [NAACL 2021 Selected Papers](src/naacl-2021-summ.md)
-
 **NEW [2021.05.31] ** [EACL 2021 Selected Papers](src/eacl-2021-summ.md)
+
+**NEW [2021.06.06] Update some scholars**
 
 ## 0 Main Scholars
 
@@ -50,7 +48,7 @@
 - [Dr. Yang Gao](https://sites.google.com/site/yanggaoalex/home)
 
 - [Yue Dong](https://www.cs.mcgill.ca/~ydong26/)
-- 
+- [Alexander R. Fabbri](https://alex-fabbri.github.io/)
 
 ## 1 Selected Papers
 
